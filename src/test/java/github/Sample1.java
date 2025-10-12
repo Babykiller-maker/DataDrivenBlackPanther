@@ -6,5 +6,7 @@ public class Sample1 {
 	 System.out.println("Sky");
 	 System.out.println("Sky2");
 	 System.out.println("Sky3");
+	 System.out.println("Sky4");
+	 System.out.println("Sky5");
 }
 }
