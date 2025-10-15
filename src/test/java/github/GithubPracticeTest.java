@@ -7,6 +7,8 @@ public class GithubPracticeTest {
 	@Test
 	public void githubTest() {
 		System.out.println("Hii Github");
-		sjabdj
+		int a = 10;
+		int b = 0;
+		System.out.println(a/b);
 	}
 }
