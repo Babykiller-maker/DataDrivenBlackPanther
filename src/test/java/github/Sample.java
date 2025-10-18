@@ -1,9 +1,12 @@
 package github;
 
+import org.testng.annotations.Test;
+
 public class Sample {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+	@Test
+	public void sampleTest() {
+		System.out.println("Sample hii");
 	}
 
 }
