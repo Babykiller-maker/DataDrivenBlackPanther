@@ -72,7 +72,7 @@
 							</suiteXmlFiles>
 
 							<systemPropertyVariables>
-								<browser>${browser}</browser>
+								<BROWSER>${BROWSER}</BROWSER>
 							</systemPropertyVariables>
 						</configuration>
 					</plugin>
