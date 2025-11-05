@@ -7,6 +7,6 @@ public class GithubPracticeTest {
 	@Test
 	public void githubTest() {
 		System.out.println("Hii Github");
-		System.out.println(System.getProperty("browser"));
+		System.out.println(System.getProperty("BROWSER"));
 	}
 }
